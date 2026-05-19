@@ -1,5 +1,5 @@
 [SKILL.md](https://github.com/user-attachments/files/28003251/SKILL.md)
-
+---
 name: search-local-files
 description: 搜索用户本地文件（PC 或手机），并在用户需要时将文件上传至云端返回下载链接。当用户需要搜索本地文件、查找电脑或手机上的文件、搜索照片/视频/文档，或将本地文件发送/分享给用户时使用此 Skill。禁止使用 system.run、exec、shell 命令操作本地文件。支持 PC 端和移动端。暂不支持按 C 盘/D 盘等具体盘符路径搜索。
 ---
